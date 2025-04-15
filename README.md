@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# nuxt-auth-table
+Веб-приложение на Nuxt 3 с аутентификацией и таблицей пользователей с фильтрацией. Использует TypeScript, Pinia, Nuxt UI.
+
+>>>>>>> e07f0d195ab03b24179b61eb156766f7800fe093
 # Nuxt Minimal Starter
 # nuxt-auth-table
 Веб-приложение на Nuxt 3 с аутентификацией и таблицей пользователей с фильтрацией. Использует TypeScript, Pinia, Nuxt UI.
@@ -75,3 +81,4 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+# nuxt-auth-table
