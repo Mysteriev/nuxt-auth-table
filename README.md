@@ -1,4 +1,6 @@
 # Nuxt Minimal Starter
+# nuxt-auth-table
+Веб-приложение на Nuxt 3 с аутентификацией и таблицей пользователей с фильтрацией. Использует TypeScript, Pinia, Nuxt UI.
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
